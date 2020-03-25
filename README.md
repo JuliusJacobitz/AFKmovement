@@ -1,0 +1,2 @@
+# AFKmovement
+Scripts for afking (: 
